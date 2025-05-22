@@ -1,5 +1,5 @@
 
-# Forensique des Points de Terminaison Linux avec GRR Rapid Response
+# Forensique des endpoints Linux avec GRR Rapid Response
 
 ## Introduction
 
